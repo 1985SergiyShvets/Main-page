@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+body {
+    max-width: 1370px;
+    margin: 0 auto;
+    font-family: ;
+    font-size: ;
+    line-height: ;
+}
+
+header {
+    background-image: url("images/freelancer.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 1058px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 5%;
+}
+.footer {
+    border-top: 2px solid #e6eaed;
+    margin-top: 15px;
+    padding: 15px 0;
+    font: 13px Arial;
+    color: #b9c0c6;
+    display: flex;
+    justify-content: flex-end;
+}
